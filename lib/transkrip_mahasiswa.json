@@ -1,0 +1,48 @@
+{
+  "mahasiswa": {
+    "nama": "Nurul Izzah",
+    "nim": "22082010008",
+    "mata_kuliah": [
+      {
+        "nama": "Bela Negara",
+        "sks": 3,
+        "nilai": 4
+      },
+      {
+        "nama": "Pemrograman Dekstop",
+        "sks": 3,
+        "nilai": 3.75
+      },
+      {
+        "nama": "Analisis Sistem Informasi",
+        "sks": 3,
+        "nilai": 3.75
+      },
+      {
+        "nama": "Administrasi Basis Data",
+        "sks": 3,
+        "nilai": 4
+      },
+      {
+        "nama": "Metodologi Penelitian",
+        "sks": 2,
+        "nilai": 4
+      },
+      {
+        "nama": "Desain Manajemen Jaringan",
+        "sks": 3,
+        "nilai": 4
+      },
+      {
+        "nama": "Tata Kelola Teknologi Informasi",
+        "sks": 3,
+        "nilai": 3.50
+      },
+      {
+        "nama": "Interaksi Manusia Komputer",
+        "sks": 3,
+        "nilai": 4
+      }
+    ]
+  }
+}
